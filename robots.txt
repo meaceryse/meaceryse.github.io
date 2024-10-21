@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://meaceryse.github.io/meaceryse.txt.gz
+Sitemap: https://meaceryse.github.io/app/meaceryse.txt.gz
+Sitemap: https://meaceryse.github.io/assets/meaceryse.txt.gz
+Sitemap: https://meaceryse.github.io/css/meaceryse.txt.gz
+Sitemap: https://meaceryse.github.io/includes/meaceryse.txt.gz
+Sitemap: https://meaceryse.github.io/item/meaceryse.txt.gz
+Sitemap: https://meaceryse.github.io/src/meaceryse.txt.gz
